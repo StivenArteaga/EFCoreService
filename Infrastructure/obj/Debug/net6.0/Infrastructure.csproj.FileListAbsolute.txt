@@ -1,0 +1,17 @@
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Entities.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\bin\Debug\net6.0\Entities.pdb
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
