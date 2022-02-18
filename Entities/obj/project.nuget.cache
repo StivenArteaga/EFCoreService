@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbHszV1TgmqCBYnDKd+T+aLEilHAN7ry/6d0EL2heK5t2eVHQoQf8itwxaxyHWyQiOLdVGZ3hOeQysntGdeIEQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectGitHub\\Backend\\Microsoft\\MigrationEFCore\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsmor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

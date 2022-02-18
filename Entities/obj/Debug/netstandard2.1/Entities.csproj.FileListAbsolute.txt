@@ -1,0 +1,10 @@
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\bin\Debug\netstandard2.1\Entities.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\bin\Debug\netstandard2.1\Entities.pdb
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.dll
+D:\ProjectGitHub\Backend\Microsoft\MigrationEFCore\Entities\obj\Debug\netstandard2.1\Entities.pdb
