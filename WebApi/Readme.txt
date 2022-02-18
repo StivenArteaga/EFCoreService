@@ -1,4 +1,4 @@
-﻿General: Este proyecto es una pequeña muestra de ejemplo de como realizar una migración con EFCore
+﻿General: Este proyecto es una pequeña muestra de ejemplo de como realizar una migración con EFCore y crear un servicio
 
 Precondición: Seleccionar en la consola de administrador de paquetes la capa que cuenta con la carpeta Migrations
 
